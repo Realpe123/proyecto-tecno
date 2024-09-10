@@ -4,7 +4,6 @@ página web de cristopher y sara :->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <Tecnologías Futuras y su Impacto en el Futuro>
     <link rel="stylesheet" href="styles.css">
-</head>
 <body>
     <header>
         <h1>Tecnologías Futuras y su Impacto en el Futuro</h1>
