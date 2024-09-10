@@ -49,4 +49,3 @@ página web de cristopher y sara :->
         <p>&copy; 2024 Futuras Innovaciones. Todos los derechos reservados.</p>
     </footer>
 </body>
-</html>
