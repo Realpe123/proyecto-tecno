@@ -1,6 +1,5 @@
 página web de cristopher y sara :->
 <html lang="es">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <Tecnologías Futuras y su Impacto en el Futuro>
@@ -44,7 +43,7 @@ página web de cristopher y sara :->
         </section>
         <section id="video">
             <h2>Video Relacionado</h2>
-            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/czWS8eJfVZs" frameborder="0" allowfullscreen title="Video sobre tecnologías futuras"></iframe>
+            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/czWS8eJfVZs" title="Video sobre tecnologías futuras"></iframe>
         </section>
     </main>
     <footer>
