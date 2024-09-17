@@ -39,11 +39,11 @@ página web de cristopher y sara :->
             <h3>Exploraciones</h3>
             <p>La exploración espacial también impulsa la innovación en campos como la ingeniería, la biología y la informática. Las tecnologías desarrolladas para misiones espaciales a menudo encuentran aplicaciones aquí en la Tierra, mejorando nuestra vida diaria. Sin embargo, la expansión de la presencia humana en el espacio también requiere un enfoque sostenible para evitar la degradación de otros mundos y la preservación del cosmos para futuras generaciones.</p>
             <img src="/mnt/data/psyche.png" alt="Exploración Espacial" class="image">
-        </section>
+        </section> 8
         <section id="video">
             <h2>Video Relacionado</h2>
             <iframe class="responsive-iframe" src="https://www.youtube.com/embed/czWS8eJfVZs" title="Video sobre tecnologías futuras"></iframe>
-        </section>
+        </section> 8
     </main>
     <footer>
         <p>&copy; 2024 Futuras Innovaciones. Todos los derechos reservados.</p>
